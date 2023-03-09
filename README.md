@@ -1,2 +1,2 @@
 # anpr
-just some stupid project
+automatic number plate detection project for CUSAT capstone
